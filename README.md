@@ -1,8 +1,8 @@
 
 # Web infrastructure design
-====================================================================================
 
-0. Simple web stack
+
+## 0. Simple web stack
 ------------------------------
 <p>is a simple web infrastructure design that consist of:</p>
 <ul>
@@ -15,7 +15,7 @@
 </ul>
 
 
-1. Distributed web infrastructure
+## 1. Distributed web infrastructure
 ------------------------------
 <p>is a simple Distributed web infrastructure that consist of:</p
 <ul>
@@ -27,7 +27,7 @@
 <li>1 database (MySQL) </li>
 </ul>
 
-2. Secured and monitored web infrastructure
+## 2. Secured and monitored web infrastructure
 ------------------------------
 <p>is a simple Secured and monitored web infrastructure that consist of:</p>
 <ul>
